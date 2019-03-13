@@ -1,0 +1,68 @@
+#header
+{
+	width: 100%;
+	height: 100px;
+	background: blue;
+	float: left;
+}
+
+#header:hover 
+{
+	background-color: #0090F0;
+}
+
+#menu
+{ 
+	width: 20%;
+	height: 200px;
+	background: #00FF00;
+	float: left;
+}
+
+#menu:hover
+{
+	background-color: #00F590;
+}
+
+#menu_2
+{ 
+	width: 80%;
+	height: 400px;
+	background: #DCDCDC;
+	float: right;
+}
+
+#menu_2:hover
+{
+	background-color: #9F9F9F
+}
+
+#tableau:hover
+{
+	background-color: FF007F
+}
+
+#menu_3
+{	width: 20%;
+	height: 200px;
+	background: white;
+	float: left;
+}
+
+#menu_3:hover
+{
+	background-color: #FBF2B7
+	}
+
+#floor
+{
+	width: 100%;
+	height: 100px;
+	background: #252525;
+	float: left;
+}
+
+#floor:hover
+{
+	background-color: #7F7F7F
+}
